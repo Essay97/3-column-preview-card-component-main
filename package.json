@@ -4,7 +4,7 @@
   "description": "![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build src/styles.css -o docs/styles.css"
   },
   "keywords": [],
   "author": "",
